@@ -86,5 +86,8 @@ resultBtn.addEventListener('click', () => {
     .container{
         max-width: 1400px;
         margin: 50px auto;
+        height: 100vh;
+        display: flex;
+        margin: 0;
     }
 </style>
