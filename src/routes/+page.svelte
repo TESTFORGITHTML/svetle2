@@ -53,13 +53,6 @@
     * {
   box-sizing: border-box;
 }
- 
-body {
-  height: 100vh;
-  display: flex;
-  margin: 0;
-}
- 
 button {
   padding: 0;
   margin: 0;
